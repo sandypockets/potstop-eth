@@ -1,5 +1,8 @@
 # Potstop
-A simple pottery forum demo
+A simple pottery forum, with Ethereum blockchain login, using browser based ETH wallets.
+
+![potstop screenshot](https://github.com/sandypockets/potstop-eth/blob/main/docs/potstop-screenshot.png?raw=true)
+
 
 ## Features
 * Ethereum blockchain user authentication
